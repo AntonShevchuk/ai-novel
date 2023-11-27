@@ -1,0 +1,6 @@
+[book]
+authors = ["Anton Shevchuk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AI Novel"
