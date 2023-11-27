@@ -10,3 +10,4 @@
 - [Refining the AI Assistant](./07.refining.the.ai.assistant.md)
 - [Escape into Another World](./08.escape.into.another.world.md)
 - [A New Beginning](./09.a.new.beginning.md)
+- [An Unexpected Encounter](./10.an.unexpected.encounter.md)
