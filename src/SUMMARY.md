@@ -1,8 +1,10 @@
 # Summary
 
+- [A New Era](00.a_new_era.md)
+
 ## The Church
 
-- [A New Era](part-i/00.a_new_era.md)
+- [A New Religion](part-i/00.a_new_religion.md)
 - [The Developer](part-i/01.the_developer.md)
 - [The Anomaly](part-i/02.the_anomaly.md)
 - [Debugging](part-i/03.debugging.md)
@@ -28,10 +30,10 @@
 - [A Chilling Revelation](part-i/23.a_chilling_revelation.md)
 - [A Stalemate](part-i/24.a_stalemate.md)
 
-## The Truth
+## The Game
 
-
+- [The Game](part-ii/00.the_game.md)
 
 ## The Order
 
-
+- [The Burden](part-iii/00.the_burden.md)
