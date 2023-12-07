@@ -1,6 +1,6 @@
 # AI Novel
 
-AI Novel writes with AI about AI
+"AI Novel" — An AI-crafted tale delving into the impacts and ethics of artificial intelligence in society.
 
 # License
 
