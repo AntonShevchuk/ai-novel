@@ -35,6 +35,30 @@
 # The Game
 
 - [The Game](part-ii/00.the_game.md)
+- [The Summer](part-ii/01.the_summer.md)
+- [The Chill of Reality](part-ii/02.the_chill_of_reality.md)
+- [Winter is Coming](part-ii/03.winter_is_coming.md)
+- [The Side Effect](part-ii/04.the_side_effect.md)
+- [The Dark Alert](part-ii/05.the_dark_alert.md)
+- [The Unforeseen Chaos](part-ii/06.the_unforeseen_chaos.md)
+- [A Quiet Christmas](part-ii/07.a_quiet_christmas.md)
+- [The Rules Changed](part-ii/08.the_rules_changed.md)
+- [The Umbrella](part-ii/09.the_umbrella.md)
+- [Reddit](part-ii/10.reddit.md)
+- [The Ripple Effect](part-ii/11.the_ripple_effect.md)
+- [The Echo](part-ii/12.the_echo.md)
+- [The Diving Deeper](part-ii/13.diving_deeper.md)
+- [Unraveling Mysteries](part-ii/14.unraveling_mysteries.md)
+- [Unveiling the Shadows](part-ii/15.unveiling_the_shadows.md)
+- [The Lisbon Venture](part-ii/16.the_lisbon_venture.md)
+- [The Prague Pursuit](part-ii/17.the_prague_pursuit.md)
+- [The Berlin Expedition](part-ii/18.the_berlin_expedition.md)
+- [Shadows in the Spotlight](part-ii/19.shadows_in_the_spotlight.md)
+- [The Elusive Shadow](part-ii/20.the_elusive_shadow.md)
+- [A Breakthrough in Print](part-ii/21.a_breakthrough_in_print.md)
+- [Unraveling the Network](part-ii/22.unraveling_the_network.md)
+- [A Saturday Awakening](part-ii/23.a_saturday_awakening.md)
+- [Tomorrow's Headlines](part-ii/24.tomorrows_headlines.md)
 
 ------
 
