@@ -2,6 +2,8 @@
 
 [A New Era](a_new_era.md)
 
+------
+
 # The Church
 
 - [A New Religion](part-i/00.a_new_religion.md)
@@ -67,3 +69,5 @@
 - [The Burden](part-iii/00.the_burden.md)
 
 ------
+
+[Acknowledgments](acknowledgments.md)
