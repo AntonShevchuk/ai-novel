@@ -2,9 +2,9 @@
 
 [A New Era](a_new_era.md)
 
-------
+-----------
 
-# The Church
+# ⛪️  The Church
 
 - [A New Religion](part-i/00.a_new_religion.md)
 - [The Developer](part-i/01.the_developer.md)
@@ -32,9 +32,9 @@
 - [A Chilling Revelation](part-i/23.a_chilling_revelation.md)
 - [A Stalemate](part-i/24.a_stalemate.md)
 
-------
+-----------
 
-# The Game
+# 🎮  The Game
 
 - [The Game](part-ii/00.the_game.md)
 - [The Summer](part-ii/01.the_summer.md)
@@ -62,12 +62,14 @@
 - [A Saturday Awakening](part-ii/23.a_saturday_awakening.md)
 - [Tomorrow's Headlines](part-ii/24.tomorrows_headlines.md)
 
-------
+-----------
 
-# The Order
+# ⚔️  The Order
 
 - [The Burden](part-iii/00.the_burden.md)
 
-------
+-----------
 
-[Acknowledgments](acknowledgments.md)
+ [Acknowledgments](acknowledgments.md)
+
+-----------

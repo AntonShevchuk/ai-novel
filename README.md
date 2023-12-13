@@ -1,6 +1,6 @@
 # AI Novel
 
-"AI Novel" — An AI-crafted tale delving into the impacts and ethics of artificial intelligence in society.
+"[AI Novel](https://antonshevchuk.github.io/ai-novel/)" is a gripping story set in 2026, exploring the ethical and societal impacts of artificial intelligence. This AI-crafted tale intertwines technology, intrigue, and human dynamics, offering a compelling look at AI's evolving role and its profound implications.
 
 ## Prompts
 
