@@ -2,7 +2,7 @@
 
 First and foremost, I extend my deepest gratitude to my wife, Olya, whose unwavering support and understanding have been the bedrock of my journey in writing this novel. Her patience, insight, and encouragement have been invaluable, and this book would not have been possible without her constant presence and love.
 
-To my sons, Danylo and David, thank you for your boundless energy and joy, which have been a constant source of inspiration and motivation. Your laughter and curiosity remind me daily of the wonder and excitement that life holds, qualities I have strived to infuse into my writing.
+To my sons, Danya and David, thank you for your boundless energy and joy, which have been a constant source of inspiration and motivation. Your laughter and curiosity remind me daily of the wonder and excitement that life holds, qualities I have strived to infuse into my writing.
 
 I am also immensely grateful to my parents, whose love of literature and storytelling instilled in me, from a young age, a deep appreciation for the art of writing. Their lessons and values have shaped not only the person I am but also the stories I tell.
 
