@@ -69,6 +69,11 @@
 - [The Burden](part-iii/00.the_burden.md)
 - [Aftermath](part-iii/01.aftermath.md)
 - [A New Agreement](part-iii/02.a_new_agreement.md)
+- [Unforeseen Distance](part-iii/03.unforeseen_distance.md)
+- [A Familiar Face](part-iii/04.a_familiar_face.md)
+- [A Blast from the Past](part-iii/05.a_blast_from_the_past.md)
+- [Surprises](part-iii/06.surprises.md)
+
 
 # ⏳ Work in the process...
 
