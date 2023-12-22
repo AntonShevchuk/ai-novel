@@ -4,7 +4,7 @@
 
 -----------
 
-# ⛪️  The Church
+# ⛪️ The Church
 
 - [A New Religion](part-i/00.a_new_religion.md)
 - [The Developer](part-i/01.the_developer.md)
@@ -34,7 +34,7 @@
 
 -----------
 
-# 🎮  The Game
+# 🎮 The Game
 
 - [The Game](part-ii/00.the_game.md)
 - [The Summer](part-ii/01.the_summer.md)
@@ -64,13 +64,13 @@
 
 -----------
 
-# ⚔️  The Order
+# ⚔️ The Order
 
 - [The Burden](part-iii/00.the_burden.md)
 - [Aftermath](part-iii/01.aftermath.md)
 - [A New Agreement](part-iii/02.a_new_agreement.md)
 
-# Work in the process...
+# ⏳ Work in the process...
 
 -----------
 
