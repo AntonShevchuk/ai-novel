@@ -67,6 +67,10 @@
 # ⚔️  The Order
 
 - [The Burden](part-iii/00.the_burden.md)
+- [Aftermath](part-iii/01.aftermath.md)
+- [A New Agreement](part-iii/02.a_new_agreement.md)
+
+# Work in the process...
 
 -----------
 
