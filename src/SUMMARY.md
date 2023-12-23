@@ -73,7 +73,7 @@
 - [A Familiar Face](part-iii/04.a_familiar_face.md)
 - [A Blast from the Past](part-iii/05.a_blast_from_the_past.md)
 - [Surprises](part-iii/06.surprises.md)
-
+- [Revelations](part-iii/07.revelations.md)
 
 # ⏳ Work in the process...
 
