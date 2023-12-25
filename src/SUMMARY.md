@@ -74,6 +74,10 @@
 - [A Blast from the Past](part-iii/05.a_blast_from_the_past.md)
 - [Surprises](part-iii/06.surprises.md)
 - [Revelations](part-iii/07.revelations.md)
+- [Blockchain](part-iii/08.blockchain.md)
+- [An Unusual Favor](part-iii/09.an_unusual_favor.md)
+- [Wednesday](part-iii/10.wednesday.md)
+- [Conversations](part-iii/11.conversations.md)
 
 # ⏳ Work in the process...
 
