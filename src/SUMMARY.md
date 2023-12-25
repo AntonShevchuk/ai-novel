@@ -78,6 +78,8 @@
 - [An Unusual Favor](part-iii/09.an_unusual_favor.md)
 - [Wednesday](part-iii/10.wednesday.md)
 - [Conversations](part-iii/11.conversations.md)
+- [The Demo](part-iii/12.the_demo.md)
+
 
 # ⏳ Work in the process...
 
