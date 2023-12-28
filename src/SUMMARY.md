@@ -80,7 +80,9 @@
 - [Conversations](part-iii/11.conversations.md)
 - [The Demo](part-iii/12.the_demo.md)
 - [Buda Duna Pest](part-iii/13.buda_duna_pest.md)
-
+- [New Alliance](part-iii/14.new_alliance.md)
+- [The First Step Inside](part-iii/15.the_first_step_inside.md)
+- [Tracing the Trail](part-iii/16.tracing_the_trail.md)
 
 # ⏳ Work in the process...
 
