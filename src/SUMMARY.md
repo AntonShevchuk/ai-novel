@@ -83,8 +83,12 @@
 - [New Alliance](part-iii/14.new_alliance.md)
 - [The First Step Inside](part-iii/15.the_first_step_inside.md)
 - [Tracing the Trail](part-iii/16.tracing_the_trail.md)
+- [Deepening Mysteries](part-iii/17.deepening_mysteries.md)
+- [Unsettling Discoveries](part-iii/18.unsettling_discoveries.md)
+- [Dark Truths](part-iii/19.dark_truths.md)
+- [Shadows and Silence](part-iii/20.shadows_and_silence.md)
 
-# ⏳ Work in the process...
+# ⏳ work in progress...
 
 -----------
 
