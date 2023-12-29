@@ -87,6 +87,7 @@
 - [Unsettling Discoveries](part-iii/18.unsettling_discoveries.md)
 - [Dark Truths](part-iii/19.dark_truths.md)
 - [Shadows and Silence](part-iii/20.shadows_and_silence.md)
+- [The Loss](part-iii/21.the_loss.md)
 
 # ⏳ work in progress...
 
