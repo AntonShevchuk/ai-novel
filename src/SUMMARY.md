@@ -88,8 +88,9 @@
 - [Dark Truths](part-iii/19.dark_truths.md)
 - [Shadows and Silence](part-iii/20.shadows_and_silence.md)
 - [The Loss](part-iii/21.the_loss.md)
-
-# ⏳ work in progress...
+- [Revelations](part-iii/22.revelations.md)
+- [The Fallout](part-iii/23.the_fallout.md)
+- [Remembrance](part-iii/24.remembrance.md)
 
 -----------
 
